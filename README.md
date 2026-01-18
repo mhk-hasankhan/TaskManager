@@ -51,23 +51,23 @@ src/
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/mhk-hasankhan/task-manager.git
 cd task-manager
-2. Install dependencies
+### 2. Install dependencies
 npm install
-3. Run the development server
+### 3. Run the development server
 npm run dev
 
-The application will run on:
+## The application will run on:
 
 http://localhost:5173
 🧪 Available Scripts
 Start development server
 npm run dev
-Build for production
+## Build for production
 
 npm run build
-Preview production build
+## Preview production build
 
 npm run preview
 💾 Data Persistence
