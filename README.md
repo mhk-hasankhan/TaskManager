@@ -43,8 +43,7 @@ src/
 ├── main.jsx
 └── index.css
 
-yaml
-Copy code
+
 
 ---
 
@@ -52,34 +51,24 @@ Copy code
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/your-username/task-manager.git
 cd task-manager
 2. Install dependencies
-bash
-Copy code
 npm install
 3. Run the development server
-bash
-Copy code
 npm run dev
+
 The application will run on:
 
-arduino
-Copy code
 http://localhost:5173
 🧪 Available Scripts
 Start development server
-bash
-Copy code
 npm run dev
 Build for production
-bash
-Copy code
+
 npm run build
 Preview production build
-bash
-Copy code
+
 npm run preview
 💾 Data Persistence
 This application uses browser LocalStorage to store tasks.
@@ -92,8 +81,3 @@ No backend required
 
 Fast and lightweight storage
 
-🌐 Deployment (Netlify)
-Build the project
-bash
-Copy code
-npm run build
