@@ -70,6 +70,7 @@ npm run build
 ## Preview production build
 
 npm run preview
+
 💾 Data Persistence
 This application uses browser LocalStorage to store tasks.
 
